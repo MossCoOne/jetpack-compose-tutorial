@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidMad</string>
+    <string name="compose_title">Jetpack Compose</string>
 </resources>
