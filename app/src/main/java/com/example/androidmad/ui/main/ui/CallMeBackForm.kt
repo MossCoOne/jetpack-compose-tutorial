@@ -16,8 +16,8 @@ import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.dp
-import com.example.androidmad.AnnotatedClickableText
-import com.example.androidmad.CustomTextField
+import com.example.androidmad.ui.main.components.AnnotatedClickableText
+import com.example.androidmad.ui.main.components.CustomTextField
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
